@@ -1,3 +1,3 @@
 <?php
-echo 'test on left';
+echo 'test on left new';
 ?>
